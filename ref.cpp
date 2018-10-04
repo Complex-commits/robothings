@@ -1,6 +1,7 @@
 /*
 I don't own this file. I do not have the right to give rights to it or whatever. I'm not a lawyer.
 This is not my own stuff. It is here for my ease of reference.
+It belongs to the VEX robotics company thing or whatever.
 */
 
 Robot config file:
