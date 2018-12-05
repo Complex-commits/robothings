@@ -4,14 +4,6 @@ This is not my own stuff. It is here for my ease of reference.
 It belongs to the VEX robotics company thing or whatever.
 */
 
-Robot config file:
-vex::brain Brain;
-vex::motor LeftMotor = vex::motor(vex::PORT1, false);
-vex::motor RightMotor = vex::motor(vex::PORT10, true)
-
-
-
-
 #include "robot-config.h"
 /*+++++++++++++++++++++++++++++++++++++++++++++| Notes |++++++++++++++++++++++++++++++++++++++++++++++
 Drive for Distance
@@ -72,7 +64,7 @@ vex::motor Motor = vex::motor(vex::PORT1);
 Main program:
 int main() {
     vex::task::sleep(1000);
-    Brain.Screen.print("Hi I am your mom!");
+    Brain.Screen.print("I am a sentient program!");
     LeftMotor.setVelocity(50, vex::velocityUnits::pct); 
     RightMotor.setVelocity(50, vex::velocityUnits::pct);
 }
