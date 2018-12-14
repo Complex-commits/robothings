@@ -1,7 +1,7 @@
 #include "robot-config.h"
 /*---------------------------------------------------------------------------*/
 /*                                                                           */
-/*        This is a template that vex had provided students to use.          */
+/*        Description: Competition template for VCS VEX V5          */
 /*                                                                           */
 /*---------------------------------------------------------------------------*/
 
